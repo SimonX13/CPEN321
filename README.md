@@ -2,6 +2,8 @@
 ##  Project Title: Help!
 ### An Android app that provides a platform for users to browse, rate, comment, request, and report a facility. Users who satisfy certain requirements are eligible for a certain amount of credits. 
 
+## Download the app on amazon app store now!
+https://www.amazon.com/dp/B0BD42W6F4/ref=sr_1_1?crid=1GQ5BITVBCH35&keywords=ourUBC+app&qid=1662399653&sprefix=ourubc+app%2Caps%2C163&sr=8-1
 
 ### Team:
 Shangzhou (Simon) Xia	  
